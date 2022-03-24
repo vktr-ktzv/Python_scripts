@@ -22,7 +22,7 @@ try:
         
         
         
-        time.sleep(a)
+        time.sleep(a/512)
         if  (flag == 1):
             if i >= 255:
                 flag = 0
